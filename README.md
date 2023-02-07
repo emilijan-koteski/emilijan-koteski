@@ -1,7 +1,7 @@
 Hi 👋 I am Emilijan Koteski
 =================================
 
-Part-time software developer 👨‍💻 at [Inteligenta](https://inteligenta.io/)
+Part-time junior software developer 👨‍💻 at [Inteligenta](https://inteligenta.io/)
 -------
 
 * ✉️  You can contact me at [emilijan.koteski@teaming.inteligenta.io](mailto:emilijan.koteski@teaming.inteligenta.io)
